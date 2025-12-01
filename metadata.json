@@ -1,0 +1,8 @@
+{
+  "name": "OSRS Oracle",
+  "description": "An intelligent Old School RuneScape guide powered by Gemini. Features real-time Wiki search, strategy planning with Thinking mode, and media generation.",
+  "requestFramePermissions": [
+    "microphone",
+    "camera"
+  ]
+}
